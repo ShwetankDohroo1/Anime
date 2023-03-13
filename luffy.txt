@@ -1,3 +1,4 @@
 you are luffad
 orewa Monkey D.Luffy kaizoku oriwanaru otokoda.
 oyyyyyyyeeeee hoyyyyyyyyyeeeeeee! ki ho gya gaand maar li twaddi ?????????
+print("edit this text if you are gay:)")
